@@ -1,0 +1,20 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Social Info Seabirds.aux
+The style file: vancouver.bst
+Database file #1: References.bib
+I was expecting a `,' or a `}'---line 1105 of file References.bib
+ :   
+ :   publisher = {Nature Publishing Group}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 2147 of file References.bib
+ :   
+ :   year={1991},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 2339 of file References.bib
+ :   @manual{RCran
+ :                ,
+I'm skipping whatever remains of this entry
+Warning--empty author and editor in RCran
+Warning--missing publisher in RCran
+(There were 3 error messages)

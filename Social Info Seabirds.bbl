@@ -1,0 +1,88 @@
+\begin{thebibliography}{10}
+
+\bibitem{dall2005information}
+Dall SR, Giraldeau LA, Olsson O, McNamara JM, Stephens DW.
+\newblock Information and its use by animals in evolutionary ecology.
+\newblock Trends in Ecology \& Evolution. 2005;20(4):187--193.
+
+\bibitem{KaneVul}
+Kane A, Jackson AL, Ogada DL, Monadjem A, McNally L.
+\newblock Vultures acquire information on carcass location from scavenging
+  eagles.
+\newblock Proceedings of the Royal Society of London B: Biological Sciences.
+  2014;281(1793).
+
+\bibitem{buckley1997spatial}
+Buckley NJ.
+\newblock Spatial-concentration effects and the importance of local enhancement
+  in the evolution of colonial breeding in seabirds.
+\newblock The American Naturalist. 1997;149(6):1091--1112.
+
+\bibitem{thompson2001long}
+Thompson D, Fedak M.
+\newblock How long should a dive last? A simple model of foraging decisions by
+  breath-hold divers in a patchy environment.
+\newblock Animal Behaviour. 2001;61(2):287--296.
+
+\bibitem{ward1973importance}
+Ward P, Zahavi A.
+\newblock The importance of certain assemblages of birds as
+  “information-centres” for food-finding.
+\newblock Ibis. 1973;115(4):517--534.
+
+\bibitem{burger1997arrival}
+Burger AE.
+\newblock Arrival and departure behavior of Common Murres at colonies: Evidence
+  for an information halo?
+\newblock Colonial Waterbirds. 1997;p. 55--65.
+
+\bibitem{weimerskirch2010use}
+Weimerskirch H, Bertrand S, Silva J, Marques JC, Goya E.
+\newblock Use of social information in seabirds: compass rafts indicate the
+  heading of food patches.
+\newblock PLOS ONE. 2010;5(3):e9928.
+
+\bibitem{wakefield2013space}
+Wakefield ED, Bodey TW, Bearhop S, Blackburn J, Colhoun K, Davies R, et~al.
+\newblock Space partitioning without territoriality in gannets.
+\newblock Science. 2013;341(6141):68--70.
+
+\bibitem{giraldeau2002potential}
+Giraldeau LA, Valone TJ, Templeton JJ.
+\newblock Potential disadvantages of using socially acquired information.
+\newblock Philosophical Transactions of the Royal Society B: Biological
+  Sciences. 2002;357(1427):1559--1566.
+
+\bibitem{furness2013assessing}
+Furness RW, Wade HM, Masden EA.
+\newblock Assessing vulnerability of marine bird populations to offshore wind
+  farms.
+\newblock Journal of environmental management. 2013;119:56--66.
+
+\bibitem{williams1995method}
+Williams J, Tasker M, Carter I, Webb A.
+\newblock A method of assessing seabird vulnerability to surface pollutants.
+\newblock Ibis. 1995;137(s1):S147--S152.
+
+\bibitem{tisue2004netlogo}
+Tisue S, Wilensky U.
+\newblock Netlogo: A simple environment for modeling complexity.
+\newblock In: International Conference on Complex Systems; 2004. p. 16--21.
+
+\bibitem{RCran}
+{R Core Team}. R: A Language and Environment for Statistical Computing.
+\newblock Vienna, Austria; 2014.
+\newblock Available from: \url{http://www.R-project.org}.
+
+\bibitem{thiele2014r}
+Thiele J.
+\newblock R marries NetLogo: introduction to the RNetLogo package.
+\newblock Journal of Statistical. 2014;58(2):1--41.
+
+\bibitem{tasker2000impacts}
+Tasker ML, Camphuysen C, Cooper J, Garthe S, Montevecchi WA, Blaber SJ.
+\newblock The impacts of fishing on marine birds.
+\newblock ICES Journal of Marine Science: Journal du Conseil.
+  2000;57(3):531--547.
+
+\end{thebibliography}
